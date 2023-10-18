@@ -1,13 +1,17 @@
-# Data Science Training
+# Data Science Ramp-up 🚀
 
-Hey! I'm making this repo with some data science content.
+Project Overview:
 
-The idea of this project is to create collaboration with Analysts & Ramp the Git usage.
+Welcome to this GitHub repository, where we focus on data science-related content.
 
-Some of the contents that we can work in this repo are:
+Contents:
 
-- Basic Python Tools
-- Machine Learning
-- Deep Learning
-- NLP
-- Scraping & Testing
+In this repository, you will find content covering the following topics:
+
+**Basic Python Tools**: Essential Python tools for data science.<br>
+**Machine Learning**: Exploration of various machine learning algorithms and applications.<br>
+**Deep Learning**: In-depth understanding of deep learning, including neural networks and their applications.<br>
+**Natural Language Processing (NLP)**: Insights into language processing, from text analysis to sentiment classification.<br>
+**Scraping & Testing**: Techniques for web scraping and testing in a data science context.<br>
+
+Feel free to collaborate and learn from the resources provided. We encourage you to contribute to this data science path.
